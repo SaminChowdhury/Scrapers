@@ -21,6 +21,6 @@ Collection of Scrapers used to automate assigned tasks at work.
 
   Used to export full contact information of every user into a CSV order to migrate into a new phone directory.
   
-  PrinterSecurityGroupScraper.py
+ #PrinterSecurityGroupScraper.py
   
-    Python script used to export the secuirty groups of all printers in Active Directory.
+ Python script used to export the secuirty groups of all printers in Active Directory.
